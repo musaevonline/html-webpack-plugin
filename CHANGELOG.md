@@ -1,6 +1,18 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [5.7.0](https://github.com/jantimon/html-webpack-plugin/compare/v4.5.2...v5.7.0) (2022-01-04)
+
+
+### Features
+
+* **config:** add regexp for filter chunks ([564c83d](https://github.com/jantimon/html-webpack-plugin/commit/564c83dfa3048919872d54917e1f60c999dc4750))
+
+
+### Bug Fixes
+
+* modify evalulation source only on success ([fce6b96](https://github.com/jantimon/html-webpack-plugin/commit/fce6b965d9502418af24139068aa415eb466c341))
 
 ## [4.5.2](https://github.com/jantimon/html-webpack-plugin/compare/v4.5.1...v4.5.2) (2021-02-18)
 
